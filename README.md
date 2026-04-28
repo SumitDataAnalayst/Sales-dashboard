@@ -52,7 +52,7 @@ The dataset includes:
 
 ## Dashboard Preview
 
-(Add screenshots of your Excel dashboard here)
+(screenshots of  Excel dashboard here --- >> https://github.com/SumitDataAnalayst/Sales-dashboard/blob/main/sales_dashboard_SS.png)
 
 ---
 
